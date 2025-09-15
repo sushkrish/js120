@@ -71,4 +71,4 @@ let spanishWords = {
 let spanishGreeter = greetings.greeting.bind(spanishWords);
 
 spanishGreeter('Jose');
-spanishGreeter('Juan');
+spanishGreeter('Juan');4
